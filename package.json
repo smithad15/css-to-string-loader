@@ -1,0 +1,29 @@
+{
+  "name": "css-to-string-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader to convert the output of the css-loader back to a string",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smithad15/css-to-string-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "css-loader",
+    "Angular2"
+  ],
+  "author": "Andrew Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smithad15/css-to-string-loader/issues"
+  },
+  "homepage": "https://github.com/smithad15/css-to-string-loader#readme",
+  "devDependencies": {},
+  "peerDependencies": {
+    "css-loader": "^0.23.1"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.15"
+  }
+}
