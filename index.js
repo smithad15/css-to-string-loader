@@ -7,7 +7,7 @@ module.exports.pitch = function(remainingRequest) {
     this.cacheable();
   }
   return [
-    "// css-to-text-loader: transforms styles from css-loader to a string output",
+    "// css-to-string-loader: transforms styles from css-loader to a string output",
     "",
     "// Get the styles",
     "var styles = require(" + loaderUtils.stringifyRequest(this, "!!" + remainingRequest) + ");",
