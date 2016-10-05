@@ -1,6 +1,6 @@
 {
   "name": "css-to-string-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Webpack loader to convert the output of the css-loader back to a string",
   "main": "index.js",
   "scripts": {},
