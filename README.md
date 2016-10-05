@@ -1,5 +1,7 @@
 # css-to-string-loader for webpack
 
+[![NPM](https://nodei.co/npm/css-to-string-loader.png)](https://npmjs.org/package/css-to-string-loader)
+
 A simple webpack loader to convert the output of the [css-loader](https://github.com/webpack/css-loader) back to a string.
 
 This is quite useful for situations where you want webpack to process all of your `@import` and `url()` statements in your stylesheets but still receive the styles in string format for further use in your code base.
