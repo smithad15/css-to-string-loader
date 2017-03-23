@@ -1,6 +1,6 @@
 {
   "name": "css-to-string-loader",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Webpack loader to convert the output of the css-loader back to a string",
   "main": "index.js",
   "scripts": {},
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/smithad15/css-to-string-loader#readme",
   "devDependencies": {},
   "peerDependencies": {
-    "css-loader": "^0.25.0"
+    "css-loader": ">=0.25.0 <0.30.0"
   },
   "dependencies": {
     "loader-utils": "^0.2.15"
