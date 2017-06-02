@@ -21,7 +21,7 @@
   "homepage": "https://github.com/smithad15/css-to-string-loader#readme",
   "devDependencies": {},
   "peerDependencies": {
-    "css-loader": "^0.25.0"
+    "css-loader": ">=0.25.0 <1.0.0"
   },
   "dependencies": {
     "loader-utils": "^0.2.15"
